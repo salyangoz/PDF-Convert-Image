@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  pdf:
+    image: thecodingmachine/gotenberg:5
+    ports:
+    - 80:3000
