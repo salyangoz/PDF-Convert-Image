@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to build file of PDF Converter
 
-You can use the [editor on GitHub](https://github.com/salyangoz/pdf-convert-image/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can find the documentation of PDF Converter library [here](https://thecodingmachine.github.io/gotenberg/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Postman Collection 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can find the postman collection file [here](https://app.getpostman.com/run-collection/bdf6475c47e2a9ac20e5#?env%5BConvert%20Pdf%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6Imh0dHA6Ly8xOC4xOTYuMi4xODAvIiwiZW5hYmxlZCI6dHJ1ZX1d)
 
 ```markdown
-Syntax highlighted code block
+Postman collection includes 3 endpoints to convert PDF files.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. URL to PDF
+2. Office Files to PDF
+3. Merge PDF Files
 ```
+For more details about convert library see [Gotenberg](https://github.com/thecodingmachine/gotenberg).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Special Thanks
 
-### Jekyll Themes
+- Creator of this library [thecodingmachine](https://github.com/thecodingmachine/gotenberg)
+- Creator of this build file [yedincisenol](https://github.com/yedincisenol)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/salyangoz/pdf-convert-image/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Setup easily with AWS Marketplace
+You can easily setup this libray using AWS Marketplace [here](https://aws.amazon.com/marketplace/pp/B07GRMYQR5?qid=1556974215970&sr=0-1&ref_=brs_res_product_title)
