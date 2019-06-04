@@ -70,3 +70,25 @@ You can easily setup this libray using AWS Marketplace [here](https://aws.amazon
 <h3>Governing Law</h3>
 
 <p>This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of <span class="country">tr</span>.</p>
+
+<h2>Returns and Refunds Policy</h2>
+
+
+<p>Thank you for shopping from us.</p>
+
+<h3>Digital products</h3>
+
+<p>We issue refunds for digital products within 7 days of the original purchase of the product.</p>
+
+<p>We recommend contacting us for assistance if you experience any issues receiving or downloading our products.</p>
+
+<h3>Contact us</h3>
+
+<p>If you have any questions about our Returns and Refunds Policy, please contact us:</p>
+
+<ul>
+<li>
+    <p>By email: info@salyangoz.com.tr</p>
+</li>
+</ul>
+
